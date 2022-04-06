@@ -29,5 +29,5 @@
 
 Наш проект создан для помощи в создании 3D моделей.
 
-**Этот проект создан [VSAndreyVS](https://github.com/VSAndreyVS) Подробнее ознокомится с проектом вы можете [Здесь](https://github.com/VSAndreyVS/rebrain-devops-task1)** .
+**Этот проект создан [VSAndreyVS](https://gitlab.rebrainme.com/slashev83_at_mail_ru) Подробнее ознокомится с проектом вы можете [Здесь](https://gitlab.rebrainme.com/devops_users_repos/3768/rebrain-devops-task1)** .
 ## How to play
