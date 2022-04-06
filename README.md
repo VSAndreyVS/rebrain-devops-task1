@@ -1,5 +1,8 @@
 <h1 align="center">Вымышленный проект v1.0</h1>
 
+<p align="center">
+<img src="https://www.ixbt.com/img/n1/news/2022/3/2/1920x1080-1920x1080-a3545a9d33a4_large.png"></p>
+
 ### - *О проекте*
 ### - ~~Зачем я создал этот проект~~
 ### - ***Польза проекта***
@@ -23,11 +26,12 @@
 
 ### [Мы приветствуем потдержку проекта](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md)
 ## Описание
-**Нейросеть сделает 3D модель**
+**Нейросеть поможет сделать 3D модель**
 <p align="center">
 <img src="https://media.giphy.com/media/4zFuOaEKf1Ll6/giphy.gif"></p>
 
 Наш проект создан для помощи в создании 3D моделей.
 
-**Этот проект создан [VSAndreyVS](https://gitlab.rebrainme.com/slashev83_at_mail_ru) Подробнее ознокомится с проектом вы можете [Здесь](https://gitlab.rebrainme.com/devops_users_repos/3768/rebrain-devops-task1)** .
-## How to play
+**Этот проект создан [Андрей](https://gitlab.rebrainme.com/slashev83_at_mail_ru) Подробнее ознокомится с проектом вы можете [Здесь](https://gitlab.rebrainme.com/devops_users_repos/3768/rebrain-devops-task1)** .
+## Как создать
+Здесь должно быть подробное описание создание 3D модели
