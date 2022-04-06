@@ -21,13 +21,13 @@
 </p>
 </h2>
 
-### [Contributions are Welcome](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md)
-## Description
-**NOW WITH DRAG AND DROP**
+### [Мы приветствуем потдержку проекта](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md)
+## Описание
+**Нейросеть сделает 3D модель**
 <p align="center">
 <img src="https://media.giphy.com/media/4zFuOaEKf1Ll6/giphy.gif"></p>
 
-Solitaire implemented by scratch on vue.js. It contains 3 types of solitaire namely spider(which was made famous by microsoft back when I was a kid) ,spider 4 suit and klondike. I've learned web development myself without any course or coaching so don't expect too much from the source code xD.
+Наш проект создан для помощи в создании 3D моделей.
 
-**This project is inspired by [AadumKhor](https://github.com/AadumKhor) Go check out his flutter implementation of the same [Here](https://github.com/AadumKhor/Solitaire_Flutter)** .
+**Этот проект создан [VSAndreyVS](https://github.com/VSAndreyVS) Подробнее ознокомится с проектом вы можете [Здесь](https://github.com/VSAndreyVS/rebrain-devops-task1)** .
 ## How to play
